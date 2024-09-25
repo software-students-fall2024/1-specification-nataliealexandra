@@ -44,7 +44,8 @@ The goal of our app is to create customized playlists for users to maximize prod
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Activity Diagram 1](images/diagram1.png)
+![UML Activity Diagram 2](images/diagram2.png)
 
 ## Clickable Prototype
 
